@@ -19,7 +19,7 @@
     author
     presenter    
     
-07	Oct 27, 2020	Student Presentation			
+#	Oct 27, 2020	Student Presentation			
     title
     author
     presenter
@@ -40,7 +40,7 @@
     author
     presenter
 
-08	Nov 03, 2020	Student Presentation	
+#	Nov 03, 2020	Student Presentation	
     title
     author
     presenter
@@ -65,7 +65,7 @@
     author
     presenter    
     
-09	Nov 10, 2020	Student Presentation		
+#	Nov 10, 2020	Student Presentation		
     title
     author
     presenter
@@ -86,7 +86,7 @@
     author
     presenter
     
-10	Nov 17, 2020
+#	Nov 17, 2020
     title
     author
     presenter
