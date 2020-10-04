@@ -50,10 +50,10 @@
     presenter: Rudrani Bhadra    
     pre-record or zoom (preferred time): pre-record    
 
- *   title   
-    author   
-    presenter    
-    pre-record or zoom (preferred time)    
+ *   title: Strategic Classification is Causal Modeling in Disguise   
+    author: John Miller, Smitha Milli
+    presenter: Sharhad Bashar
+    pre-record or zoom (preferred time): pre-record   
     
 #	Nov 03, 2020		
  *  title   
