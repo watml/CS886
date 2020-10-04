@@ -61,11 +61,6 @@
     presenter  
     pre-record or zoom (preferred time)    
     
- *   title: Counterfactual Fairness   
-    author: Kusner, Matt J and Loftus, Joshua and Russell, Chris and Silva, Ricardo   
-    presenter: Shadong Liu   
-    pre-record or zoom (preferred time): pre-record   
-    
  *   title   
     author   
     presenter   
@@ -75,6 +70,11 @@
     author   
     presenter   
     pre-record or zoom (preferred time)    
+    
+ *   title: Avoiding Discrimination through Causal Reasoning
+    author: Niki Kilbertus, Mateo Rojas-Carulla, Giambattista Parascandolo, Moritz Hardt, Dominik Janzing, Bernhard Scholkopf
+    presenter : Lipsa Mishra   
+    pre-record or zoom (preferred time): pre-record
     
  *   title   
     author   
