@@ -19,10 +19,10 @@
     presenter   
     pre-record or zoom (preferred time)    
     
- *   title   
-    author   
-    presenter       
-    pre-record or zoom (preferred time)    
+ *   title : Learning The Difference That Makes A Difference With Counterfactually-Augmented Data  
+    author : Divyansh Kaushik, Eduard Hovy, Zachary Lipton
+    presenter : Gaurav Sikri
+    pre-record or zoom (preferred time) : Zoom (Th 9-12)
     
 #	Oct 27, 2020				
  *  title: Causal Modeling for Fairness In Dynamical Systems   
