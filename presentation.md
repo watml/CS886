@@ -30,10 +30,10 @@
     presenter: Haonan Duan  
     pre-record or zoom (preferred time): pre-record    
    
- *   title   
-    author   
-    presenter   
-    pre-record or zoom (preferred time)    
+ *   title: Counterfactuals uncover the modular structure of deep generative models
+    author: M. Besserve, A. Mehrjou, R. Sun, and B. Schölkopf
+    presenter: Niki Hasrati
+    pre-record or zoom (preferred time): pre-recorded    
     
  *   title   
     author   
