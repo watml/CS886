@@ -1,8 +1,8 @@
 # 	Oct 20, 2020	
- *  title   
-    author    
-    presenter  
-    pre-record or zoom (preferred time)    
+ *  Few-shot Domain Adaptation by Causal Mechanism Transfer   
+    T. Teshima, I. Sato, and M. Sugiyama    
+    Yiwei Lu
+    zoom (Tu 9-12)   
     
  *   title   
     author   
