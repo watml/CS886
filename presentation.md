@@ -25,10 +25,10 @@
     pre-record or zoom (preferred time)    
     
 #	Oct 27, 2020				
- *  title   
-    author    
-    presenter  
-    pre-record or zoom (preferred time)    
+ *  title: Causal Modeling for Fairness In Dynamical Systems   
+    author: Elliot Creager, David Madras, Toniann Pitassi, Richard Zemel    
+    presenter: Haonan Duan  
+    pre-record or zoom (preferred time): pre-record    
    
  *   title   
     author   
