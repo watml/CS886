@@ -107,10 +107,10 @@
     presenter   
     pre-record or zoom (preferred time)    
     
- *   title   
-    author   
-    presenter      
-    pre-record or zoom (preferred time)    
+ *  title: Causal diagrams for empirical research 
+    author: Judea Pearl
+    presenter: Dahlia Shehata          
+    pre-record or zoom (preferred time): pre-record   
     
 #	Nov 17, 2020
  *  title   
