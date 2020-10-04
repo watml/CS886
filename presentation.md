@@ -102,10 +102,10 @@
     presenter   
     pre-record or zoom (preferred time)    
    
- *   title   
-    author   
-    presenter   
-    pre-record or zoom (preferred time)    
+ *  title: Robust Multi-agent Counterfactual Prediction   
+    author: Alexander Peysakhovich, Christian Kroer, Adam Lerer
+    presenter: Alireza Vezvaei
+    pre-record or zoom (preferred time): pre-record    
     
  *  title: Causal diagrams for empirical research 
     author: Judea Pearl
