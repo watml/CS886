@@ -40,10 +40,10 @@
     presenter: Dihong Jiang
     pre-record or zoom (preferred time) : Zoom (Tu 9-12)
     
- *   title   
-    author   
-    presenter   
-    pre-record or zoom (preferred time)    
+ *   title: CXPlain: Causal Explanations for Model Interpretation under Uncertainty                   
+    author: Patrick Schwab and Walter Karlen                  
+    presenter: Wanxin Li                   
+    pre-record or zoom (preferred time): pre-record   
     
  *   title: Counterfactual Fairness in Text Classification through Robustness   
     author: S. Garg, V. Perot, N. Limtiaco, A. Taly, E. H. Chi, and A. Beutel          
