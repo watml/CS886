@@ -66,10 +66,10 @@
     presenter: Shadong Liu          
     pre-record or zoom (preferred time): pre-record          
     
- *   title   
-    author   
-    presenter   
-    pre-record or zoom (preferred time)    
+ *   title: Does mitigating ML’s impact disparity require treatment disparity?    
+    author: Zachary C. Lipton, Alexandra Chouldechova, Julian McAuley    
+    presenter: Hauton Tsang    
+    pre-record or zoom (preferred time): pre-record    
     
  *   title   
     author   
