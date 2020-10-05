@@ -42,7 +42,7 @@
     
  *   title: CXPlain: Causal Explanations for Model Interpretation under Uncertainty
     author: Patrick Schwab and Walter Karlen   
-    presenter:   Wanxin Li
+    presenter: Wanxin Li
     pre-record or zoom (preferred time): pre-record   
     
  *   title: Counterfactual Fairness in Text Classification through Robustness   
