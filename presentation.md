@@ -9,10 +9,10 @@
     presenter   
     pre-record or zoom (preferred time)    
     
- *   title   
-    author   
-    presenter   
-    pre-record or zoom (preferred time)    
+ *   title: Few-shot Domain Adaptation by Causal Mechanism Transfer   
+    author: Takeshi Teshima, Issei Sato, Masashi Sugiyama   
+    presenter: Hossein Keshavarz   
+    pre-record or zoom (preferred time): pre-record    
    
  *   title   
     author   
