@@ -97,10 +97,10 @@
     presenter   
     pre-record or zoom (preferred time)    
     
- *   title   
-    author   
-    presenter   
-    pre-record or zoom (preferred time)    
+ *   title: Learning Representations for Counterfactual Inference 
+    author: Fredrik Johansson, Uri Shalit, David Sontag
+    presenter: Jheng-Hong Yang
+    pre-record or zoom (preferred time): pre-record
    
  *  title: Robust Multi-agent Counterfactual Prediction   
     author: Alexander Peysakhovich, Christian Kroer, Adam Lerer
