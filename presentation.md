@@ -87,10 +87,10 @@
     pre-record or zoom (preferred time)    
     
 #	Nov 10, 2020			
- *  title   
-    author    
-    presenter  
-    pre-record or zoom (preferred time)    
+ *  title: Conditional Independence in Statistical Theory  
+    author: A. P. Dawid 
+    presenter: Daniel Herman  
+    pre-record or zoom (preferred time): Pre-record    
     
  *   title   
     author   
