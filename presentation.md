@@ -92,10 +92,10 @@
     presenter: Daniel Herman  
     pre-record or zoom (preferred time): Pre-record    
     
- *   title   
-    author   
-    presenter   
-    pre-record or zoom (preferred time)    
+ *   title: The Case for Evaluating Causal Models Using Interventional Measures and Empirical Data   
+    author: Amanda Gentzel, Dan Garant, and David Jensen
+    presenter: Sheng-Chieh Lin
+    pre-record or zoom (preferred time): pre-record
     
  *   title: Learning Representations for Counterfactual Inference 
     author: Fredrik Johansson, Uri Shalit, David Sontag
