@@ -40,10 +40,10 @@
     presenter: Dihong Jiang
     pre-record or zoom (preferred time) : Zoom (Tu 9-12)
     
- *   title   
-    author   
-    presenter   
-    pre-record or zoom (preferred time)    
+ *   title: Few-shot Domain Adaptation by Causal Mechanism Transfer   
+    author: Takeshi Teshima, Issei Sato, Masashi Sugiyama   
+    presenter: Hossein Keshavarz   
+    pre-record or zoom: pre-record
     
  *   title: Counterfactual Fairness in Text Classification through Robustness   
     author: S. Garg, V. Perot, N. Limtiaco, A. Taly, E. H. Chi, and A. Beutel          
