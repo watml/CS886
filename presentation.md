@@ -113,10 +113,10 @@
     pre-record or zoom (preferred time): pre-record       
     
 #	Nov 17, 2020
- *   title: Ivy: Instrumental Variable Synthesis for Causal Inference
-    author: Zhaobin Kuang, Frederic Sala, Nimit Sohoni, Sen Wu, Aldo C´ordova-Palomera, Jared Dunnmon, James Priest, and Christopher R´    
-    presenter: Xiaoyu Wen
-    pre-record or zoom (preferred time): pre-record
+ *   title: Ivy: Instrumental Variable Synthesis for Causal Inference       
+    author: Zhaobin Kuang, Frederic Sala, Nimit Sohoni, Sen Wu, Aldo C´ordova-Palomera, Jared Dunnmon, James Priest, and Christopher R´        
+    presenter: Xiaoyu Wen   
+    pre-record or zoom (preferred time): pre-record     
    
  *   title   
     author   
