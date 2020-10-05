@@ -107,8 +107,8 @@
     presenter: Alireza Vezvaei
     pre-record or zoom (preferred time): pre-record    
     
- *  title: Causal diagrams for empirical research 
-    author: Judea Pearl
+ *   title: Probabilistic evaluation of sequential plans from causal models with hidden variables
+    authors: Judea Pearl, James Robins
     presenter: Dahlia Shehata          
     pre-record or zoom (preferred time): pre-record   
     
