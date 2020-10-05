@@ -35,20 +35,20 @@
     presenter: Niki Hasrati       
     pre-record or zoom (preferred time): pre-recorded           
     
- *   title:  CAUSALGAN: LEARNING CAUSAL IMPLICIT GENERATIVE MODELS WITH ADVERSARIAL TRAINING
-    author:  Murat Kocaoglu, Christopher Snyder, Alexandros G. Dimakis, Sriram Vishwanath  
-    presenter: Dihong Jiang
-    pre-record or zoom (preferred time) : Zoom (Tu 9-12)
+ *   title:  CAUSALGAN: LEARNING CAUSAL IMPLICIT GENERATIVE MODELS WITH ADVERSARIAL TRAINING    
+    author:  Murat Kocaoglu, Christopher Snyder, Alexandros G. Dimakis, Sriram Vishwanath      
+    presenter: Dihong Jiang    
+    pre-record or zoom (preferred time) : Zoom (Tu 9-12)    
     
  *   title: CXPlain: Causal Explanations for Model Interpretation under Uncertainty                   
     author: Patrick Schwab and Walter Karlen                  
     presenter: Wanxin Li                   
-    pre-record or zoom (preferred time): pre-record   
+    pre-record or zoom (preferred time): pre-record       
     
- *   title: Counterfactual Fairness in Text Classification through Robustness   
+ *   title: Counterfactual Fairness in Text Classification through Robustness       
     author: S. Garg, V. Perot, N. Limtiaco, A. Taly, E. H. Chi, and A. Beutel          
-    presenter: Rudrani Bhadra    
-    pre-record or zoom (preferred time): pre-record    
+    presenter: Rudrani Bhadra        
+    pre-record or zoom (preferred time): pre-record        
 
  *   title: Strategic Classification is Causal Modeling in Disguise          
     author: John Miller, Smitha Milli       
@@ -56,61 +56,61 @@
     pre-record or zoom (preferred time): pre-record          
     
 #	Nov 03, 2020		
- *  title: Causal Structure Learning   
-    author: Heinze-Deml, Christina and Maathuis, Marloes H. and Meinshausen, Nicolai    
-    presenter: Ashish Gaurav
-    pre-record or zoom (preferred time): Zoom (Tu 9-12)
+ *  title: Causal Structure Learning       
+    author: Heinze-Deml, Christina and Maathuis, Marloes H. and Meinshausen, Nicolai            
+    presenter: Ashish Gaurav        
+    pre-record or zoom (preferred time): Zoom (Tu 9-12)            
     
- *   title: Counterfactual Fairness   
+ *   title: Counterfactual Fairness       
     author: Kusner, Matt J and Loftus, Joshua and Russell, Chris and Silva, Ricardo          
     presenter: Shadong Liu          
     pre-record or zoom (preferred time): pre-record          
     
- *   title: Does mitigating ML’s impact disparity require treatment disparity?    
+ *   title: Does mitigating ML’s impact disparity require treatment disparity?        
     author: Zachary C. Lipton, Alexandra Chouldechova, Julian McAuley    
-    presenter: Hauton Tsang    
-    pre-record or zoom (preferred time): pre-record    
+    presenter: Hauton Tsang        
+    pre-record or zoom (preferred time): pre-record        
     
  *   title   
     author   
     presenter   
     pre-record or zoom (preferred time)    
     
- *   title: Avoiding Discrimination through Causal Reasoning
-    author: Niki Kilbertus, Mateo Rojas-Carulla, Giambattista Parascandolo, Moritz Hardt, Dominik Janzing, Bernhard Scholkopf
-    presenter : Lipsa Mishra   
-    pre-record or zoom (preferred time): pre-record
+ *   title: Avoiding Discrimination through Causal Reasoning        
+    author: Niki Kilbertus, Mateo Rojas-Carulla, Giambattista Parascandolo, Moritz Hardt, Dominik Janzing, Bernhard Scholkopf        
+    presenter : Lipsa Mishra           
+    pre-record or zoom (preferred time): pre-record            
     
  *   title   
     author   
     presenter      
-    pre-record or zoom (preferred time)    
+    pre-record or zoom (preferred time)        
     
 #	Nov 10, 2020			
- *  title: Conditional Independence in Statistical Theory  
-    author: A. P. Dawid 
-    presenter: Daniel Herman  
-    pre-record or zoom (preferred time): Pre-record    
+ *  title: Conditional Independence in Statistical Theory      
+    author: A. P. Dawid     
+    presenter: Daniel Herman          
+    pre-record or zoom (preferred time): Pre-record        
     
- *   title: The Case for Evaluating Causal Models Using Interventional Measures and Empirical Data   
-    author: Amanda Gentzel, Dan Garant, and David Jensen
-    presenter: Sheng-Chieh Lin
-    pre-record or zoom (preferred time): pre-record
+ *   title: The Case for Evaluating Causal Models Using Interventional Measures and Empirical Data       
+    author: Amanda Gentzel, Dan Garant, and David Jensen        
+    presenter: Sheng-Chieh Lin        
+    pre-record or zoom (preferred time): pre-record        
     
- *   title: Learning Representations for Counterfactual Inference 
-    author: Fredrik Johansson, Uri Shalit, David Sontag
-    presenter: Jheng-Hong Yang
-    pre-record or zoom (preferred time): pre-record
+ *   title: Learning Representations for Counterfactual Inference     
+    author: Fredrik Johansson, Uri Shalit, David Sontag        
+    presenter: Jheng-Hong Yang        
+    pre-record or zoom (preferred time): pre-record        
    
- *  title: Robust Multi-agent Counterfactual Prediction   
-    author: Alexander Peysakhovich, Christian Kroer, Adam Lerer
-    presenter: Alireza Vezvaei
-    pre-record or zoom (preferred time): pre-record    
+ *  title: Robust Multi-agent Counterfactual Prediction       
+    author: Alexander Peysakhovich, Christian Kroer, Adam Lerer        
+    presenter: Alireza Vezvaei        
+    pre-record or zoom (preferred time): pre-record        
     
- *   title: Probabilistic evaluation of sequential plans from causal models with hidden variables
-    authors: Judea Pearl, James Robins
+ *   title: Probabilistic evaluation of sequential plans from causal models with hidden variables        
+    authors: Judea Pearl, James Robins        
     presenter: Dahlia Shehata          
-    pre-record or zoom (preferred time): pre-record   
+    pre-record or zoom (preferred time): pre-record       
     
 #	Nov 17, 2020
  *  title   
