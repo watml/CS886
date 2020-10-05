@@ -56,10 +56,10 @@
     pre-record or zoom (preferred time): pre-record          
     
 #	Nov 03, 2020		
- *  title   
-    author    
-    presenter  
-    pre-record or zoom (preferred time)    
+ *  title: Causal Structure Learning   
+    author: Heinze-Deml, Christina and Maathuis, Marloes H. and Meinshausen, Nicolai    
+    presenter: Ashish Gaurav
+    pre-record or zoom (preferred time): Zoom (Tu 9-12)
     
  *   title: Counterfactual Fairness   
     author: Kusner, Matt J and Loftus, Joshua and Russell, Chris and Silva, Ricardo          
