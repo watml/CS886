@@ -35,10 +35,10 @@
     presenter: Niki Hasrati       
     pre-record or zoom (preferred time): pre-recorded           
     
- *   title   
-    author   
-    presenter   
-    pre-record or zoom (preferred time)    
+ *   title:  CAUSALGAN: LEARNING CAUSAL IMPLICIT GENERATIVE MODELS WITH ADVERSARIAL TRAINING
+    author:  Murat Kocaoglu, Christopher Snyder, Alexandros G. Dimakis, Sriram Vishwanath  
+    presenter: Dihong Jiang
+    pre-record or zoom (preferred time) : Zoom (Tu 9-12)
     
  *   title   
     author   
