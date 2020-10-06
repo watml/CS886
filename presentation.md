@@ -14,10 +14,10 @@
     presenter: Hossein Keshavarz   
     pre-record or zoom (preferred time): pre-record    
    
- *   title   
-    author   
-    presenter   
-    pre-record or zoom (preferred time)    
+ *   title Model-Agnostic Counterfactual Explanations for Consequential Decisions  
+    author : Amir-Hossein Karimi, Gilles Barthe, Borja Balle, Isabel Valera
+    presenter : Blake VanBerlo   
+    pre-record or zoom (preferred time): pre-record   
     
  *   title : Learning The Difference That Makes A Difference With Counterfactually-Augmented Data  
     author : Divyansh Kaushik, Eduard Hovy, Zachary Lipton     
