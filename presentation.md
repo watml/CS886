@@ -71,10 +71,10 @@
     presenter: Hauton Tsang        
     pre-record or zoom (preferred time): pre-record        
     
- *   title   
-    author   
-    presenter   
-    pre-record or zoom (preferred time)    
+ *   title: The estimation of causal effects from observational data
+    author: Winship, Christopher and Morgan, Stephen L.
+    presenter: Yisheng Zhu
+    pre-record or zoom (preferred time): pre-record   
     
  *   title: Avoiding Discrimination through Causal Reasoning        
     author: Niki Kilbertus, Mateo Rojas-Carulla, Giambattista Parascandolo, Moritz Hardt, Dominik Janzing, Bernhard Scholkopf        
