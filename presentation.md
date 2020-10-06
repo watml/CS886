@@ -81,10 +81,10 @@
     presenter : Lipsa Mishra           
     pre-record or zoom (preferred time): pre-record            
     
- *   title   
-    author   
-    presenter      
-    pre-record or zoom (preferred time)        
+ *   title : DeepMatch: Balancing Deep Covariate Representations for Causal Inference Using Adversarial Training 
+    author : Nathan Kallus 
+    presenter : Mojtaba Valipour
+    pre-record or zoom (preferred time): doesn't matter really except I am a bit worry about internet connection so pre-record     
     
 #	Nov 10, 2020			
  *  title: Conditional Independence in Statistical Theory      
