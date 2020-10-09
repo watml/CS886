@@ -15,7 +15,7 @@
     pre-record       
    
  *  title:     Model-Agnostic Counterfactual Explanations for Consequential Decisions  
-    author:    Amir-Hossein Karimi, Gilles Barthe, Borja Balle, Isabel Valera
+    author:    Amir-Hossein Karimi, Gilles Barthe, Borja Balle, Isabel Valera            
     presenter: Blake VanBerlo   
     pre-record        
     
@@ -116,7 +116,7 @@
     
 #	Nov 17, 2020
  *  title:     Ivy: Instrumental Variable Synthesis for Causal Inference       
-    author:    Zhaobin Kuang, Frederic Sala, Nimit Sohoni, Sen Wu, Aldo C´ordova-Palomera, Jared Dunnmon, James Priest, and Christopher R´        
+    author:    Zhaobin Kuang, Frederic Sala, Nimit Sohoni, Sen Wu, Aldo Cordova-Palomera, Jared Dunnmon, James Priest, and Christopher Re                   
     presenter: Xiaoyu Wen         
     pre-record       
    
