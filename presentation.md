@@ -9,10 +9,10 @@
     presenter: Jaskirat  Singh Bhatia            
     pre-record        
     
- *  title:     Few-shot Domain Adaptation by Causal Mechanism Transfer   
-    author:    Takeshi Teshima, Issei Sato, Masashi Sugiyama   
-    presenter: Hossein Keshavarz   
-    pre-record       
+ *  title   
+    author   
+    presenter   
+    pre-record or zoom (preferred time)      
    
  *  title:     Model-Agnostic Counterfactual Explanations for Consequential Decisions  
     author:    Amir-Hossein Karimi, Gilles Barthe, Borja Balle, Isabel Valera            
@@ -120,10 +120,10 @@
     presenter: Xiaoyu Wen         
     pre-record       
    
- *  title   
-    author   
-    presenter   
-    pre-record or zoom (preferred time)    
+ *  title: A Meta-Transfer Objective for Learning to Disentangle Causal Mechanisms   
+    author: Yoshua Bengio, Tristan Deleu, Nasim Rahaman, Rosemary Ke, Sébastien Lachapelle, Olexa Bilaniuk, Anirudh Goyal, Christopher Pal   
+    presenter: Hossein Keshavarz   
+    pre-record
     
  *  title   
     author   
