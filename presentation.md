@@ -125,7 +125,7 @@
     presenter: Hossein Keshavarz              
     pre-record             
     
- *  title:   Learning Independent Causal Mechanisms
+ *  title:   Learning Independent Causal Mechanisms                           
     author:   Giambattista Parascandolo, Niki Kilbertus, Mateo Rojas-Carulla, Bernhard Schölkopf                   
     presenter:   Joshua Lemmon                
     pre-record             
