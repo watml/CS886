@@ -9,10 +9,10 @@
     presenter: Jaskirat  Singh Bhatia            
     pre-record        
     
- *  title   
-    author   
-    presenter   
-    pre-record or zoom (preferred time)      
+ *  title:   A General Identification Condition for Causal Effects
+    author: Jin Tian and Judea Pearl   
+    presenter: Abhinav Jain
+    pre-record    
    
  *  title:     Model-Agnostic Counterfactual Explanations for Consequential Decisions  
     author:    Amir-Hossein Karimi, Gilles Barthe, Borja Balle, Isabel Valera            
