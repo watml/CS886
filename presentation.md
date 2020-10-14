@@ -9,10 +9,10 @@
     presenter: Jaskirat  Singh Bhatia            
     pre-record        
     
- *  title:   A General Identification Condition for Causal Effects
-    author: Jin Tian and Judea Pearl   
-    presenter: Abhinav Jain
-    pre-record    
+ *  title:   A General Identification Condition for Causal Effects             
+    author: Jin Tian and Judea Pearl              
+    presenter: Abhinav Jain              
+    pre-record               
    
  *  title:     Model-Agnostic Counterfactual Explanations for Consequential Decisions  
     author:    Amir-Hossein Karimi, Gilles Barthe, Borja Balle, Isabel Valera            
@@ -120,15 +120,15 @@
     presenter: Xiaoyu Wen         
     pre-record       
    
- *  title: A Meta-Transfer Objective for Learning to Disentangle Causal Mechanisms   
-    author: Yoshua Bengio, Tristan Deleu, Nasim Rahaman, Rosemary Ke, Sébastien Lachapelle, Olexa Bilaniuk, Anirudh Goyal, Christopher Pal   
-    presenter: Hossein Keshavarz   
-    pre-record
+ *  title: A Meta-Transfer Objective for Learning to Disentangle Causal Mechanisms             
+    author: Yoshua Bengio, Tristan Deleu, Nasim Rahaman, Rosemary Ke, Sébastien Lachapelle, Olexa Bilaniuk, Anirudh Goyal, Christopher Pal            
+    presenter: Hossein Keshavarz              
+    pre-record             
     
- *  title   Learning Independent Causal Mechanisms
-    author   Giambattista Parascandolo, Niki Kilbertus, Mateo Rojas-Carulla, Bernhard Schölkopf
-    presenter   Joshua Lemmon
-    pre-record or zoom (preferred time): pre-recorded
+ *  title:   Learning Independent Causal Mechanisms
+    author:   Giambattista Parascandolo, Niki Kilbertus, Mateo Rojas-Carulla, Bernhard Schölkopf                   
+    presenter:   Joshua Lemmon                
+    pre-record             
    
  *  title   
     author   
