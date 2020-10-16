@@ -29,7 +29,7 @@
  *  title:     Robustly Disentangled Causal Mechanisms: Validating Deep Representations for Interventional Robustness
     author:    Raphael Suter, Djordje Miladinovic, Bernhard Schölkopf, Stefan Bauer  
     presenter: Haonan Duan   
-    pre-record       
+    <ins>zoom (Tu 9-12)</ins>       
    
  *  title:     Counterfactuals uncover the modular structure of deep generative models    
     author:    M. Besserve, A. Mehrjou, R. Sun, and B. Schölkopf          
