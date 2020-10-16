@@ -22,7 +22,7 @@
  *  title:     Learning The Difference That Makes A Difference With Counterfactually-Augmented Data  
     author:    Divyansh Kaushik, Eduard Hovy, Zachary Lipton     
     presenter: Gaurav Sikri     
-    <ins>zoom (Th 9-12)</ins>       
+    <ins>zoom (Tu 9-12)</ins>       
     
     
 #	Oct 27, 2020				
