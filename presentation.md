@@ -26,8 +26,8 @@
     
     
 #	Oct 27, 2020				
- *  title:     Causal Modeling for Fairness In Dynamical Systems   
-    author:    Elliot Creager, David Madras, Toniann Pitassi, Richard Zemel    
+ *  title:     Robustly Disentangled Causal Mechanisms: Validating Deep Representations for Interventional Robustness
+    author:    Raphael Suter, Djordje Miladinovic, Bernhard Schölkopf, Stefan Bauer  
     presenter: Haonan Duan   
     pre-record       
    
