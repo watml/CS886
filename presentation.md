@@ -73,8 +73,8 @@
     presenter: Hauton Tsang        
     pre-record        
     
- *  title:     The estimation of causal effects from observational data          
-    author:    Winship, Christopher and Morgan, Stephen L.        
+ *  title:     Alleviating Privacy Attacks via Causal Learning          
+    author:    Shruti Tople and Amit Sharma and Aditya Nori        
     presenter: Yisheng Zhu          
     pre-record        
     
