@@ -130,10 +130,10 @@
     presenter:   Joshua Lemmon                
     pre-record             
    
- *  title   
-    author   
-    presenter   
-    pre-record or zoom (preferred time)    
+ *  title: Identification of Conditional Causal Effects under Markov Equivalence
+    author: A. Jaber, J. Zhang, and E. Bareinboim
+    presenter: Tavian Barnes
+    pre-record
     
  *  title   
     author   
