@@ -86,7 +86,7 @@
  *  title:     DeepMatch: Balancing Deep Covariate Representations for Causal Inference Using Adversarial Training        
     author:    Nathan Kallus           
     presenter: Mojtaba Valipour          
-    pre-record     
+    <ins>Zoom (Tu 9-12)</ins>      
     
 #	Nov 10, 2020			
  *  title:     Conditional Independence in Statistical Theory      
