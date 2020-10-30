@@ -104,8 +104,8 @@
     presenter: Jheng-Hong Yang        
     pre-record        
    
- *  title:     Robust Multi-agent Counterfactual Prediction       
-    author:    Alexander Peysakhovich, Christian Kroer, Adam Lerer        
+ *  title:     Almost Optimal Intervention Sets for Causal Discovery       
+    author:    Frederick Eberhardt        
     presenter: Alireza Vezvaei        
     pre-record        
     
